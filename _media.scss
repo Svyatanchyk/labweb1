@@ -1,0 +1,17 @@
+@media (max-width: 356px) {
+
+   .navbar-brand {
+      margin: 0;
+   }
+
+   #logotext {
+      margin: 0 !important;
+   }
+}
+
+@media (min-width: 1200px) {
+   .carousel-inner img {
+      height: 600px !important;
+      margin: 0 auto;
+   }
+}
